@@ -15,5 +15,5 @@
             "colour": "#BF211E"
         }
     ],
-    "gliders": "Url to an endpoint following the aircraft-data-interface with optional additional attributes defined below"
+    "gliders": "https://raw.githubusercontent.com/matsmats418/JWGC2022/main/gliders"
 }
