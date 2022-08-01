@@ -1,0 +1,19 @@
+{
+    "comps": [
+        {
+            "id": "club",
+            "name": "JWGC 2022 Club Class",
+            "short": "Club Class",
+            "task": "https://www.soaringspot.com/en_gb/junior-world-gliding-championships-2022-tabor-2022/results/class-club",
+            "colour": "#0074D9"
+        },
+       {
+            "id": "standard",
+            "name": "JWGC 2022 Standard Class",
+            "short": "Standard Class",
+            "task": "https://www.soaringspot.com/en_gb/junior-world-gliding-championships-2022-tabor-2022/results/class-standard",
+            "colour": "#BF211E"
+        }
+    ],
+    "gliders": "Url to an endpoint following the aircraft-data-interface with optional additional attributes defined below"
+}
