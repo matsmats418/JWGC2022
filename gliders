@@ -1,17 +1,212 @@
 [
 {
-        "name": "Marcus Neubronner",
-        "cn": "D-KDJR | H7",
-        "glider": "6V",
-        "comp": "Victoria",
-        "flarm": ["3E64D7"]
+        "name": "Finn Sleigh [GBR]",
+        "cn": "5",
+        "glider": "ASW 20",
+        "comp": "club",
+        "flarm": ["40595D"]
     },
  {
-        "name": "Tore & Annika Gräber",
-        "cn": "N2",
-        "glider": "Ventus 3M",
-        "comp": "D-KTAG",
-        "flarm": ["3ECE22"]
-    }   
-    
+        "name": "David McMaster [USA]",
+        "cn": "11",
+        "glider": "ASW 20",
+        "comp": "club",
+        "flarm": ["DD9178"]
+    },   
+{
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
+    {
+        "name": "",
+        "cn": "",
+        "glider": "",
+        "comp": "club",
+        "flarm": [""]
+    },
 ]
