@@ -1,0 +1,12 @@
+{
+    "comps": [
+       {
+            "id": "standard",
+            "name": "JWGC 2022 Standard Class",
+            "short": "Standard Class",
+            "task": "https://www.soaringspot.com/en_gb/junior-world-gliding-championships-2022-tabor-2022/results/class-standard",
+            "colour": "#BF211E"
+        }
+    ],
+    "gliders": "https://raw.githubusercontent.com/matsmats418/JWGC2022/main/gliderStandard"
+}
